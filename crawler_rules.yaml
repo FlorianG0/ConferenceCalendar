@@ -1,0 +1,92 @@
+default:
+  include_keywords:
+    - paper submission
+    - submission deadline
+    - symposium paper deadline
+    - symposium papers
+    - technical paper submission
+    - technical paper submission deadline
+    - deadline for submission of papers
+    - paper submission due
+    - full paper
+  exclude_keywords:
+    - conference dates
+    - conference date
+    - camera-ready
+    - camera ready
+    - acceptance notification
+    - notification
+    - notification of acceptance
+    - tutorial
+    - workshop
+    - registration
+    - author registration
+  firm_keywords:
+    - firm
+    - final
+    - hard deadline
+  extension_keywords:
+    - extend
+    - extension
+    - extended
+  context_radius: 1
+  default_extension_days: 14
+  max_training_extension_days: 90
+
+families:
+  icc:
+    include_keywords:
+      - symposium paper deadline
+      - paper submissions
+      - technical symposium
+      - paper submission
+  globecom:
+    include_keywords:
+      - paper submission
+      - technical paper submission
+      - conference paper deadline
+      - important dates
+  pimrc:
+    include_keywords:
+      - paper submission
+      - symposium paper deadline
+      - regular paper
+      - important dates
+  wcnc:
+    include_keywords:
+      - call for papers
+      - paper submission
+      - paper submission deadline
+      - firm deadline
+  iswcs:
+    include_keywords:
+      - technical paper submission deadline
+      - technical paper
+      - submission deadline
+  eusipco:
+    include_keywords:
+      - deadline for conference paper submission
+      - conference paper submission
+      - paper submission
+  spawc:
+    include_keywords:
+      - paper submission due
+      - call for papers
+      - paper submission
+  eucnc:
+    include_keywords:
+      - deadline for submission of papers
+      - call for papers
+      - submission of papers
+
+conferences:
+  icc-2025:
+    firm_keywords:
+      - (firm)
+      - firm
+      - final
+  icc-2026:
+    firm_keywords:
+      - (firm)
+      - firm
+      - final

@@ -1,0 +1,126 @@
+[
+  {
+    "conference_id": "globecom-2026",
+    "seen_at_utc": "2026-02-15T11:10:34.645305+00:00",
+    "deadline_iso": "2026-02-15",
+    "source": "crawler"
+  },
+  {
+    "conference_id": "pimrc-2026",
+    "seen_at_utc": "2026-02-15T11:10:34.645305+00:00",
+    "deadline_iso": "2026-02-15",
+    "source": "crawler"
+  },
+  {
+    "conference_id": "icc-2025",
+    "seen_at_utc": "2026-02-15T12:17:16.885234+00:00",
+    "deadline_iso": "2025-11-10",
+    "source": "crawler",
+    "is_firm_deadline": true
+  },
+  {
+    "conference_id": "globecom-2025",
+    "seen_at_utc": "2026-02-15T12:17:16.885234+00:00",
+    "deadline_iso": "2025-12-12",
+    "source": "crawler",
+    "is_firm_deadline": false
+  },
+  {
+    "conference_id": "pimrc-2025",
+    "seen_at_utc": "2026-02-15T12:17:16.885234+00:00",
+    "deadline_iso": "2025-06-27",
+    "source": "crawler",
+    "is_firm_deadline": true
+  },
+  {
+    "conference_id": "icc-2026",
+    "seen_at_utc": "2026-02-15T12:17:16.885234+00:00",
+    "deadline_iso": "2025-11-10",
+    "source": "crawler",
+    "is_firm_deadline": false
+  },
+  {
+    "conference_id": "globecom-2026",
+    "seen_at_utc": "2026-02-15T12:17:16.885234+00:00",
+    "deadline_iso": "2026-04-01",
+    "source": "crawler",
+    "is_firm_deadline": false
+  },
+  {
+    "conference_id": "pimrc-2026",
+    "seen_at_utc": "2026-02-15T12:17:16.885234+00:00",
+    "deadline_iso": "2026-06-01",
+    "source": "crawler",
+    "is_firm_deadline": false
+  },
+  {
+    "conference_id": "icc-2026",
+    "seen_at_utc": "2026-02-15T12:18:37.851820+00:00",
+    "deadline_iso": "2026-01-18",
+    "source": "crawler",
+    "is_firm_deadline": false
+  },
+  {
+    "conference_id": "globecom-2025",
+    "seen_at_utc": "2026-02-15T12:19:56.773755+00:00",
+    "deadline_iso": "2025-04-01",
+    "source": "crawler",
+    "is_firm_deadline": false
+  },
+  {
+    "conference_id": "pimrc-2025",
+    "seen_at_utc": "2026-02-15T12:19:56.773755+00:00",
+    "deadline_iso": "2025-04-13",
+    "source": "crawler",
+    "is_firm_deadline": true
+  },
+  {
+    "conference_id": "icc-2026",
+    "seen_at_utc": "2026-02-15T12:19:56.773755+00:00",
+    "deadline_iso": "2025-11-10",
+    "source": "crawler",
+    "is_firm_deadline": true
+  },
+  {
+    "conference_id": "wcnc-2026",
+    "seen_at_utc": "2026-02-15T12:45:37.105457+00:00",
+    "deadline_iso": "2025-10-26",
+    "source": "crawler",
+    "is_firm_deadline": true
+  },
+  {
+    "conference_id": "iswcs-2026",
+    "seen_at_utc": "2026-02-15T12:45:37.105457+00:00",
+    "deadline_iso": "2026-05-15",
+    "source": "crawler",
+    "is_firm_deadline": false
+  },
+  {
+    "conference_id": "eusipco-2026",
+    "seen_at_utc": "2026-02-15T12:45:37.105457+00:00",
+    "deadline_iso": "2026-04-30",
+    "source": "crawler",
+    "is_firm_deadline": true
+  },
+  {
+    "conference_id": "spawc-2026",
+    "seen_at_utc": "2026-02-15T12:45:37.105457+00:00",
+    "deadline_iso": "2026-03-22",
+    "source": "crawler",
+    "is_firm_deadline": false
+  },
+  {
+    "conference_id": "eucnc-2026",
+    "seen_at_utc": "2026-02-15T12:45:37.105457+00:00",
+    "deadline_iso": "2026-02-13",
+    "source": "crawler",
+    "is_firm_deadline": true
+  },
+  {
+    "conference_id": "eusipco-2026",
+    "seen_at_utc": "2026-02-15T12:47:29.803094+00:00",
+    "deadline_iso": "2026-02-13",
+    "source": "crawler",
+    "is_firm_deadline": true
+  }
+]

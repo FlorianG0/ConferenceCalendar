@@ -1,0 +1,106 @@
+conferences:
+  - id: icc-2025
+    family: icc
+    year: 2025
+    name: IEEE ICC 2025
+    short_name: ICC
+    url: https://icc2026.ieee-icc.org/authors/call-symposia-papers
+    fallback_deadline: 2025-11-10
+    seed_submission_dates:
+      - 2025-09-29
+      - 2025-10-13
+      - 2025-10-31
+      - 2025-11-10
+    crawl_urls:
+      - https://icc2026.ieee-icc.org/authors/call-symposia-papers
+  - id: globecom-2025
+    family: globecom
+    year: 2025
+    name: IEEE GLOBECOM 2025
+    short_name: GLOBECOM
+    url: https://globecom2025.ieee-globecom.org/
+    fallback_deadline: 2025-04-01
+  - id: pimrc-2025
+    family: pimrc
+    year: 2025
+    name: IEEE PIMRC 2025
+    short_name: PIMRC
+    url: https://pimrc2025.ieee-pimrc.org/
+    fallback_deadline: 2025-03-15
+  - id: icc-2026
+    family: icc
+    year: 2026
+    name: IEEE ICC 2026
+    short_name: ICC
+    url: https://icc2026.ieee-icc.org/authors/call-symposia-papers
+    fallback_deadline: 2026-11-10
+    crawl_urls:
+      - https://icc2026.ieee-icc.org/authors/call-symposia-papers
+  - id: globecom-2026
+    family: globecom
+    year: 2026
+    name: IEEE GLOBECOM 2026
+    short_name: GLOBECOM
+    url: https://globecom2026.ieee-globecom.org/
+    fallback_deadline: 2026-04-01
+  - id: pimrc-2026
+    family: pimrc
+    year: 2026
+    name: IEEE PIMRC 2026
+    short_name: PIMRC
+    url: https://pimrc2026.ieee-pimrc.org/
+    fallback_deadline: 2026-03-15
+  - id: wcnc-2026
+    family: wcnc
+    year: 2026
+    name: IEEE WCNC 2026
+    short_name: WCNC
+    url: https://wcnc2026.ieee-wcnc.org/call-papers
+    fallback_deadline: 2025-10-26
+    seed_submission_dates:
+      - 2025-10-26
+    crawl_urls:
+      - https://wcnc2026.ieee-wcnc.org/call-papers
+  - id: iswcs-2026
+    family: iswcs
+    year: 2026
+    name: ISWCS 2026
+    short_name: ISWCS
+    url: http://iswcs.org/iswcs2026/
+    fallback_deadline: 2026-05-15
+    crawl_urls:
+      - http://iswcs.org/iswcs2026/
+  - id: eusipco-2026
+    family: eusipco
+    year: 2026
+    name: EUSIPCO 2026
+    short_name: EUSIPCO
+    url: https://eusipco2026.org/submissions/
+    fallback_deadline: 2026-02-13
+    seed_submission_dates:
+      - 2026-02-06
+      - 2026-02-13
+    crawl_urls:
+      - https://eusipco2026.org/submissions/
+  - id: spawc-2026
+    family: spawc
+    year: 2026
+    name: IEEE SPAWC 2026
+    short_name: SPAWC
+    url: https://2026.ieeespawc.org/call-for-papers/
+    fallback_deadline: 2026-03-22
+    crawl_urls:
+      - https://2026.ieeespawc.org/call-for-papers/
+  - id: eucnc-2026
+    family: eucnc
+    year: 2026
+    name: EuCNC 2026
+    short_name: EuCNC
+    url: https://www.eucnc.eu/authors/call-for-papers/
+    fallback_deadline: 2026-02-13
+    seed_submission_dates:
+      - 2026-01-23
+      - 2026-02-06
+      - 2026-02-13
+    crawl_urls:
+      - https://www.eucnc.eu/authors/call-for-papers/
